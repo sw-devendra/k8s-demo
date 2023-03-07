@@ -1,3 +1,5 @@
-Learned basics and deployed a simple app on kubernetes.
+Learning basics of kubernetes
 
-Reference : https://www.youtube.com/watch?v=s_o8dwzRlu4 
+References
+ - https://www.youtube.com/watch?v=s_o8dwzRlu4
+ - https://www.youtube.com/watch?v=X48VuDVv0do
